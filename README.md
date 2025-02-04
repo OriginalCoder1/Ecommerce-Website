@@ -14,7 +14,23 @@ A Full-Stack eCommerce project built using the MERN stack (MongoDB, Express.js, 
 ### Admin Dashboard  
 - Add, update, and delete products in the store.  
 - Manage and view all orders.  
-- Access product data stored in a **MongoDB database**.  
+- Access product data stored in a **MongoDB database**.
+
+## Screenshots
+### Admin Page
+![Home Page](./screenshots/admin.png)
+
+### DashBoard Page
+![Upload Image](./screenshots/DashBoard.jpeg)
+
+### About Page
+![Processed Image](./screenshots/About.jpeg)
+
+### Colleactions Page
+![Processed Image](./screenshots/collection.png)
+
+### Contact Page
+![Processed Image](./screenshots/contact.jpeg)
 
 ## Tech Stack  
 
